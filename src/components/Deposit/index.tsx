@@ -1,7 +1,7 @@
 import React from "react";
-import logo from "../assets/react.svg";
+import logo from "../../assets/react.svg";
 import { MdEdit } from "react-icons/md";
-import avatar3 from "../assets/img/avatar3.jpg";
+import avatar3 from "../../assets/img/avatar3.jpg";
 import {
   AccountInput,
   AccountTitle,
